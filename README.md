@@ -6,5 +6,5 @@ Entrega do segundo trabalho da disvciplina TP546
 Trabalho sobre Indice de Cidades Inteligentes.
 
 ## Links para Documentos e Artigos
-- [Documento PDF da Tarefa o2]()
+- [Documento PDF da Tarefa o2](TRABALHO 02 - Bruno Augusto.pdf)
 - [Artigo 1]()
